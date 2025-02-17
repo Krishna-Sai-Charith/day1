@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    display: flex;
+    gap: 2vw;
+    align-items: center;
+    justify-content: center;
+
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: #007bff; /* Change hover color */
+}
+p{
+    padding: 0vw 6vw;
+}
